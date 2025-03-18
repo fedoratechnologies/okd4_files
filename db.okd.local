@@ -15,7 +15,7 @@ Starterboot.okd.local.          IN      A       192.168.5.16
 
 ; OpenShift Container Platform Cluster - A records
 BootStrap.lab.okd.local.        IN      A      192.168.5.15
-Command.lab.okd.local.        IN      A      192.168.5.10
+Command1.lab.okd.local.        IN      A      192.168.5.10
 Command2.lab.okd.local.         IN      A      192.168.5.11
 Command3.lab.okd.local.         IN      A      192.168.5.12
 Agent1.lab.okd.local.        IN      A      192.168.5.13
