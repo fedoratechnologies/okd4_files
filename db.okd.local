@@ -11,7 +11,7 @@ $TTL    604800
     IN      NS      Starterboot
 
 ; name servers - A records
-Starterboot.okd.local.          IN      A       192.168.5.16
+Starter.okd.local.          IN      A       192.168.5.16
 
 ; OpenShift Container Platform Cluster - A records
 BootStrap.lab.okd.local.        IN      A      192.168.5.15
